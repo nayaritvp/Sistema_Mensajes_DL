@@ -1,0 +1,212 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.conteiner {
+    display: flex;
+    border: solid black 1px;
+    height: 100vh;
+}
+.conteiner1 {
+    border-right: solid gray 1px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+#titleh {
+    padding-top: 10px;
+    font-family: 'Roboto medium';
+    font-size: 40px;
+}
+.conteiner2 {
+    border-left: solid gray 1px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-style: normal;
+}
+.menuvar {
+    height: 10vh;
+    width: 100%;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid #e8ebe4 2px;
+}
+.menuvar_user {
+    display: flex;
+    padding-left: 10px;
+}
+#titlem {
+    font-family: 'Roboto medium';
+}
+.mariatext {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: small;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+i {
+    color: gray;
+    padding: 5px;
+}
+.menuvar_icons {
+    padding-top: 20px;
+    padding-right: 10px;
+    display: flex;
+}
+.boton {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    background-color: #A491D2 ;
+    border-color: #A491D2;
+    color: #CDC3E6;
+    width: 150px;
+    height: 50px;
+}
+.contacts {
+    height: 70vh;
+    overflow-y: scroll;
+}
+.contact1 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    border-top: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: medium;
+}
+#title1 {
+    font-family: 'Roboto medium';
+}
+.contact1t {
+    padding-top: 10px;
+}
+.contact2 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+#title2 {
+    font-family: 'Roboto medium';
+}
+.contact2t {
+    padding-top: 10px;
+}
+.contact3 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+#title3 {
+    font-family: 'Roboto medium';
+}
+.contact3t {
+    padding-top: 10px;
+}
+.contact4 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+#title4 {
+    font-family: 'Roboto medium';
+}
+.contact4t {
+    padding-top: 10px;
+}
+.contact5 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+#title5 {
+    font-family: 'Roboto medium';
+}
+.contact5t {
+    padding-top: 10px;
+}
+.contact6 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+#title6 {
+    font-family: 'Roboto medium';
+}
+.contact6t {
+    padding-top: 10px;
+}
+.contact7 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+#title7 {
+    font-family: 'Roboto medium';
+}
+.contact7t {
+    padding-top: 10px;
+}
+.contact8 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: solid #e8ebe4 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+#title8 {
+    font-family: 'Roboto medium';
+}
+.contact8t {
+    padding-top: 10px;
+}
